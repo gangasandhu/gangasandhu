@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gangasandhu
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning full-stack web development
 
 <!---
 gangasandhu/gangasandhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
